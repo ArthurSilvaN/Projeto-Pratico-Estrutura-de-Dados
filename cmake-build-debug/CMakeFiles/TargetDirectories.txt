@@ -1,0 +1,3 @@
+D:/projetos/projeto-pratico/cmake-build-debug/CMakeFiles/projeto_pratico.dir
+D:/projetos/projeto-pratico/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projetos/projeto-pratico/cmake-build-debug/CMakeFiles/rebuild_cache.dir

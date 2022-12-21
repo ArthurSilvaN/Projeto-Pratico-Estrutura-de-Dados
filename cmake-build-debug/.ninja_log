@@ -1,0 +1,18 @@
+# ninja log v5
+7	1061	6918858383038235	CMakeFiles/projeto_pratico.dir/registro.cpp.obj	d8be572050c90cf1
+13	1091	6918858383807759	CMakeFiles/projeto_pratico.dir/CSVToBinary.cpp.obj	82074a22f8351af6
+1	1081	6918858383677848	CMakeFiles/projeto_pratico.dir/project-implementation.cpp.obj	ed75c7863df53bec
+1091	1382	6918858386533914	projeto_pratico.exe	d4117c09876236a9
+5	1930	6918998344800984	CMakeFiles/projeto_pratico.dir/CSVToBinary.cpp.obj	f12c78b7b933be78
+10	1931	6918998344920897	CMakeFiles/projeto_pratico.dir/registro.cpp.obj	5ebd13592d50db6
+16	1934	6918998344990852	CMakeFiles/projeto_pratico.dir/project-implementation.cpp.obj	3a690dc46581b86b
+1935	2459	6918998350287605	projeto_pratico.exe	d4117c09876236a9
+145	2402	6919253255022875	CMakeFiles/projeto_pratico.dir/registro.cpp.obj	5ebd13592d50db6
+5	2413	6919253255182779	CMakeFiles/projeto_pratico.dir/CSVToBinary.cpp.obj	f12c78b7b933be78
+47	2422	6919253255352673	CMakeFiles/projeto_pratico.dir/project-implementation.cpp.obj	3a690dc46581b86b
+2422	3488	6919253265999974	projeto_pratico.exe	d4117c09876236a9
+12	766	6919270752526522	CMakeFiles/projeto_pratico.dir/project-implementation.cpp.obj	3a690dc46581b86b
+766	1001	6919270754855091	projeto_pratico.exe	d4117c09876236a9
+4	815	6919273692846147	CMakeFiles/projeto_pratico.dir/CSVToBinary.cpp.obj	f12c78b7b933be78
+11	854	6919273693265884	CMakeFiles/projeto_pratico.dir/project-implementation.cpp.obj	3a690dc46581b86b
+854	1039	6919273695044787	projeto_pratico.exe	d4117c09876236a9
